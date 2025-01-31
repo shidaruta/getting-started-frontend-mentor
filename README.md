@@ -1,1 +1,1 @@
-# getting-started-frontend-mentor
+# getting-started-with-frontend-mentor requirement
